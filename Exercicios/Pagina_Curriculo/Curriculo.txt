@@ -1,0 +1,23 @@
+Cria um ficheiro curriculo.html com estes 7 elementos obrigatórios:
+
+Título da página → "Meu Currículo".
+
+Um cabeçalho <h1> com teu nome.
+
+Um parágrafo <p> com uma breve apresentação.
+
+Uma tabela <table> com pelo menos 2 colunas e 3 linhas (exemplo: cursos, certificações, ou experiências profissionais).
+
+Uma lista ordenada <ol> com 3 objetivos ou metas futuras.
+
+Um formulário <form> com:
+
+campo de texto para nome
+
+campo de email
+
+área de texto para mensagem
+
+botão "Enviar"
+
+Um link de navegação que volte para index.html ou perfil.html (a página anterior). (Exercicio Mini Pagina Perfil)
