@@ -1,0 +1,13 @@
+Cria um ficheiro perfil.html com 6 elementos obrigatórios:
+
+Título da página (na aba do navegador): "Meu Perfil"
+
+Um cabeçalho <h1> com o teu nome (ou inventado).
+
+Uma imagem de perfil (pode ser local ou da internet).
+
+Um parágrafo <p> falando um pouco sobre ti (ou fictício).
+
+Uma lista não ordenada <ul> com 3 hobbies/interesses.
+
+Um link <a> que leve para um site externo (ex: YouTube, GitHub, etc.).
