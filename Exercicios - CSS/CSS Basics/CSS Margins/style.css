@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: large;
+    background-color: black;
+    color: green;
+    padding: 30px;
+
+    /*margin:50px é igual ao bloco de codigo abaixo*/
+    margin-top: 50px;
+    margin-left: auto;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+
+}
+
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: large;
+    background-color: gold;
+    color: brown;
+}
