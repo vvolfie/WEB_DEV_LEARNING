@@ -1,4 +1,4 @@
-HTML-LEARNING
+WEB DEV LEARNING AND PRACTICSE
 
 Este repositório foi criado com o objetivo de aprender e praticar HTML CSS JS.
 Contém exemplos simples de páginas, uso de links, imagens, áudio e vídeo.
