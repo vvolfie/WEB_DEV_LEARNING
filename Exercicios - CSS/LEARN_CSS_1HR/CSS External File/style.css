@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: green;
+}
+
+h1{
+    color: red;
+}
+
+
+.impar{
+    color: blue;
+}
+
+.par {
+    color: red;
+}
