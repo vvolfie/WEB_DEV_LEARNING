@@ -1,0 +1,15 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 10px;
+    font-size: 40px;
+    text-align: center;
+    background: gold;
+
+    float: right; /* Popular para embrulhar elementos a volta das imagens*/
+
+}
+
+p{
+    clear: both; /*Para parar o float*/
+}
