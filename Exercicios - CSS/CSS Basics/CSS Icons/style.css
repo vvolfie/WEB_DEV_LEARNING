@@ -1,0 +1,15 @@
+.fa-github{
+    color: red;
+}
+
+.fa-download{
+    color: aqua
+}
+
+.fa-twitch{
+    color: rgb(58, 15, 87);
+}
+
+.fa-twitch:hover{
+    color: green
+}
